@@ -1,2 +1,2 @@
-# Youtube-download
- primeira versão do youtube download
+# Youtube Downloader
+ Primeiro projeto em programação com linguagem python e criação de GUI com fins acadêmicos.
