@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="yt">
+    <file>Youtube-PNG.png</file>
+  </qresource>
+</RCC>
